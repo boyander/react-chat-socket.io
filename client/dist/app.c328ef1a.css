@@ -1,0 +1,13 @@
+.inputbox {
+  display: flex;
+}
+.inputbox textarea {
+  width: 80%;
+  height: 40px;
+  display: block;
+}
+.inputbox button {
+  width: 20%;
+  height: 40px;
+  display: block;
+}

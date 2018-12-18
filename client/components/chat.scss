@@ -1,0 +1,14 @@
+$height: 40px;
+.inputbox{
+    display: flex;
+    textarea{
+        width: 80%;
+        height: $height;
+        display: block;
+    }
+    button{
+        width: 20%;
+        height: $height;
+        display: block;
+    }
+}
